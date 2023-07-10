@@ -8,7 +8,7 @@ I am a VFX Pipeline TD, and my primary responsibility is to help studios create 
 
 In my spare time, I enjoy creating helpful tools to assist developers and individuals in their daily tasks. My expertise lies in languages such as TypeScript/JavaScript and Lua, and I have recently been exploring Go. Additionally, I tutor compositing artists, guiding them in developing their Python and PyQt/PySide skills. Currently, I am focused on developing NodeEditor, a Python-based visual scripting framework that streamlines artists' workflows and enhances their productivity.
 
-I also enjoy consistently improving my dotfiles setup, knowing that the process is never-ending 😅. Moreover, I have a keen interest in VJing and personal training, as there is no greater satisfaction than helping others achieve their fitness objectives and seeing the joy on their faces.
+I also enjoy consistently improving my dotfiles setup, knowing it is a never-ending process 😅. Moreover, I am very invested in VJing and personal training, as there is no greater satisfaction than helping others achieve their fitness objectives and seeing the joy on their faces.
 
 #### Current Reading 📖
 
