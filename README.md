@@ -2,13 +2,13 @@
 
 #### About Me
 
-I am a VFX Pipeline TD, and my primary responsibility is to help studios create robust pipelines that improve all aspects of the VFX production process. I am passionate about my job and take pride in creating effective workflows, automating tedious tasks, and improving the creative process for artists and production teams. I strive to empower all departments and play a vital role in the studio's success.
+Hey there! I'm based in New York and I am a VFX Pipeline Developer TD. My job is all about helping others create awesome visual effects, which means I get to play around with lots of cool tools like Python, Javascript, Lua, PySide2, Nuke, Maya, Blender, and more. 
 
-#### Personal Projects and Free Time
+Recently, I've been diving deep into the world of Golang, learning new data structures, and honing my algorithmic skills.
 
-In my spare time, I enjoy creating helpful tools to assist developers and individuals in their daily tasks. My expertise lies in languages such as TypeScript/JavaScript and Lua, and I have recently been exploring Go. Additionally, I tutor compositing artists, guiding them in developing their Python and PyQt/PySide skills. Currently, I am focused on developing NodeEditor, a Python-based visual scripting framework that streamlines artists' workflows and enhances their productivity.
+Programming is more than just coding for me. I find the philosophy behind it fascinating. Learning about best practices, design patterns, and the theories that drive software is something I really enjoy. I'm also curious about low-level programming and the intricate details that give us a peek into how computers work.
 
-I also enjoy consistently improving my dotfiles setup, knowing it is a never-ending process 😅. Moreover, I am very invested in VJing and personal training, as there is no greater satisfaction than helping others achieve their fitness objectives and seeing the joy on their faces.
+In order to truly excel at something, it's important to approach it from every possible angle. This approach has allowed me to continuously evolve, come up with new ideas, and genuinely enjoy my work from all angles.
 
 #### Current Reading 📖
 
