@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Absolutely, here's your updated GitHub status:
-
 * 👨‍💻 VFX Pipeline Developer by day, VJ by night 🌙  
 * 🛠️ Wielding Python, PySide2, Nuke, Maya, TypeScript, and more!  
 * 📚 Currently diving into the depths of Golang and Data Structures  
