@@ -1,17 +1,15 @@
-## Hi there 👋
+Hi there 👋
 
-* 👨‍💻 VFX Pipeline Developer by day, VJ by night 🌙  
-* 🛠️ Wielding Python, PySide2, Nuke, Maya, TypeScript, and more!  
-* 📚 Currently diving into the depths of Golang and Data Structures  
-* 🔍 Passionate about design patterns and programming theory  
-* 🚀 "Low-level programming? I'm on a quest to get there!"  
-* 🎮 Also, a Lua and Bash enthusiast because why not?
-* 🆚 VSCode or NeoVim? Why not both? 🪄🗡️
-* 🌐 New York-based, but digitally everywhere!  
+* VFX Pipeline Developer by day, VJ by night
+* Expertise: Python, PySide2, Nuke, Maya, TypeScript, and more
+* Go and Lua aficionado
+* Passionate about design patterns and programming theory
+* Exploring low-level programming
+* VSCode and NeoVim user
+* Based in New York
+* Currently reading: [Writing An Interpreter In Go](https://interpreterbook.com/)
 
-Feel free to snoop around my repos and contributions—no secrets here!
-If you find something that piques your interest or have questions, hit me up!
-Always down for some community chit-chat and collab magic on cool projects!
+Feel free to explore my repos and contributions. If something catches your interest or you have questions, reach out. I'm always open to community collaboration on cool projects!
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
