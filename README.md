@@ -1,8 +1,8 @@
 Hi there 👋
 
 * VFX Pipeline Developer by day, VJ by night
-* Expertise: Python, PySide2, Nuke, Maya, TypeScript, and more
-* Go and Lua aficionado
+* Expertise: Python, PySide2, Nuke, Maya, and more
+* Go, Lua, and TypeScript aficionado
 * Passionate about design patterns and programming theory
 * Exploring low-level programming
 * VSCode and NeoVim user
