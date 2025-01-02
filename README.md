@@ -8,8 +8,9 @@ while True:
     editor(['vscode', 'neovim'])
     if gym:
         break
-    
-    # TODO: coffee?
+    if social_media:
+        raise RuntimeError("feature not supported")
+    # TODO: cpp grind
 ```
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
