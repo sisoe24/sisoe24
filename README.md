@@ -3,7 +3,7 @@ Yo ✌️
 ```py
 while True:
     code(['python', 'go', 'lua', 'typescript'])
-    work({'pipeline': ['nuke', 'maya']})
+    work({'pipeline': ['nuke', 'maya', 'houdini']})
     fun(['vj'])
     editor(['vscode', 'neovim'])
     if gym:
