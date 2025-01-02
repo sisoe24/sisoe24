@@ -9,7 +9,7 @@ while True:
     if gym:
         break
     if social_media:
-        raise RuntimeError("feature not supported")
+        raise RuntimeError("error: incompatible system")
     # TODO: cpp grind
 ```
 <div align="center">
